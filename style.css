@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__logo {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    width: 350px;
+    padding: 20px;
+}
+
+.header__2021 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.header__hero {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.footer__hero {
+    text-align: center;
+    margin-top: 15px;
+}
